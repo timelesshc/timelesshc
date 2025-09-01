@@ -2,7 +2,7 @@
 
 I'm a recent graduate from [Georgia Institute of Technology](https://www.gatech.edu/), previously interned at [Zhipu AI](https://www.zhipuai.cn/en/).
 - 🔭 I’m currently looking for a full time job in AI/ML/LLM field.
-- 📍 Based in Bay Area 🌉
+- 📍 Based in Bay Area, California
 - 📄 With keen interest in AI, LLM, ML, NLP, GenAI and MLOps.
 - 👷🏻‍♂️ Ex-Structural Engineer and Project Manager in construction, helping shape the Bay Area.
 - 💡 My MBTI is INTJ. 
