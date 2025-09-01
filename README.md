@@ -5,7 +5,7 @@ I'm a recent graduate from [Georgia Institute of Technology](https://www.gatech.
 - 📄 With keen interest in AI, ML, NLP, GenAI and MLOps.
 - 👷🏻‍♂️ Ex-Structural Engineer and Project Manager in construction, helping shape the Bay Area.
 - 💡 My MBTI is INTJ. 
-- 🏂 I enjoy snowboarding. I'm AASI Level 2 Snowboard Instructor.
+- 🏂 Level 2 Snowboard Instructor (AASI) and lover of fresh powder.
 - 💬 Language: English, Chinese
 
 ## 💻 Tech Stack:
