@@ -9,7 +9,7 @@ I'm a recent graduate from [Georgia Institute of Technology](https://www.gatech.
 - 💬 Language: English, Chinese
 
 ## 💻 Tech Stack:
-### Language:
+### Language
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23013243.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
