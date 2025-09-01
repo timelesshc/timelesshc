@@ -4,7 +4,7 @@
 - 💻 Previously interned at [Zhipu AI](https://www.zhipuai.cn/en/) as a Machine Learning Engineer
 - 🔭 I’m currently looking for a full time job in AI/ML/LLM field
 - 📍 Based in Bay Area, California
-- 📄 With keen interest in AI, LLM, ML, NLP, GenAI and MLOps.
+- 📄 With keen interest in AI, LLM, ML, NLP, GenAI and MLOps
 - 👷🏻‍♂️ Ex-Structural Engineer and Project Manager in construction, helping shape the Bay Area
 - 💡 My MBTI is INTJ
 - 🏂 Level 2 Snowboard Instructor (AASI) and lover of fresh powder
