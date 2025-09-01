@@ -7,7 +7,7 @@ I'm a recent graduate from [Georgia Institute of Technology](https://www.gatech.
 - 👷🏻‍♂️ Ex-Structural Engineer and Project Manager in construction, helping shape the Bay Area.
 - 💡 My MBTI is INTJ. 
 - 🏂 Level 2 Snowboard Instructor (AASI) and lover of fresh powder.
-- 💬 Language: English, Chinesejinmendaqiao
+- 💬 Language: English, Chinese
 
 ## 💻 Tech Stack:
 ### Language:
