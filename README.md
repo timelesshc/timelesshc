@@ -9,7 +9,7 @@ I'm a recent graduate from [Georgia Institute of Technology](https://www.gatech.
 - 💬 Language: English, Chinese
 
 ## 💻 Tech Stack:
-### Language
+### Language:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23013243.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
@@ -17,8 +17,7 @@ I'm a recent graduate from [Georgia Institute of Technology](https://www.gatech.
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/c++-blue.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### Frameworks
+### Frameworks:
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-%23F7931E.svg?style=for-the-badge&logo=HuggingFace&logoColor=white)
@@ -29,8 +28,7 @@ I'm a recent graduate from [Georgia Institute of Technology](https://www.gatech.
 ![LlamaFactory](https://img.shields.io/badge/LlamaFactory-4B5563?style=for-the-badge)
 ![vLLM](https://img.shields.io/badge/vLLM-7C3AED?style=for-the-badge)
 ![DeepSpeed](https://img.shields.io/badge/DeepSpeed-0078D7?logo=deepspeed&logoColor=white&style=for-the-badge)
-
-### Tools
+### Tools:
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
