@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Cheng
 
-I'm a recent graduate from [Georgia Institute of Technology](https://www.gatech.edu/), formerly interned at [Zhipu AI](https://www.zhipuai.cn/en/).
+I'm a recent graduate from [Georgia Institute of Technology](https://www.gatech.edu/), previously interned at [Zhipu AI](https://www.zhipuai.cn/en/).
 - 🔭 I’m currently looking for a full time job in AI/ML/LLM field.
 - 📄 With keen interest in AI, LLM, ML, NLP, GenAI and MLOps.
 - 👷🏻‍♂️ Ex-Structural Engineer and Project Manager in construction, helping shape the Bay Area.
